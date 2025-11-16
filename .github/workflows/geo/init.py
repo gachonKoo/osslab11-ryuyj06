@@ -1,1 +1,1 @@
-
+all = ['pythagoras', 'circle']
