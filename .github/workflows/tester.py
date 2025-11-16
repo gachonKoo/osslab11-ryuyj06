@@ -5,5 +5,5 @@ c = pythagoras(a, b)
 print('c =', c)
 
 r = 10
-area = 
+area =  circle(r)
 print('area ='. area)
